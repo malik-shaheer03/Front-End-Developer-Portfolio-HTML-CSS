@@ -36,6 +36,8 @@ A sleek and professional **personal portfolio website** built entirely with **HT
 - 🌐 [Portfolio](https://shaheer-portfolio-omega.vercel.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/malik-shaheer03)  
 - 🐙 [GitHub](https://github.com/malik-shaheer03)  
+- 📸 [Instagram](https://instagram.com/malik_shaheer03)  
+- 📧 [Email Me](mailto:shaheermalik03@gmail.com)  
 
 ---
 
